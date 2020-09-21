@@ -9,7 +9,7 @@
   <!-- bagian header template -->
   <header>
     <div class="topnav"> <!-- awal header -->
-    <h1 class="judul">Cloud Computing</h1>
+    <h1 class="judul">Cloud Computing V2</h1>
     </div> <!-- akhir header -->
   </header>
   <!-- akhir bagian header template -->
