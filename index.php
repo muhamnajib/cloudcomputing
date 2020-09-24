@@ -71,6 +71,9 @@
     </div>
     <!-- akhir bagian konten Blog -->
   </div>
+  <div class="footer">
+  <h5>© 2020 Muhammad Najibullah</h5>
+  </div> 
  
 </body>
 </html>
