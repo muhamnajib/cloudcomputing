@@ -36,7 +36,7 @@
         <div class="post-info">
           Di Posting Oleh <b>Muhammad Najibullah</b>
         </div>
-        <img class="foto"src="plt.jpg">
+        <img class="foto"src="rs.jpg">
         <h1> Rumah Sakit Syarif Hidayatullah</h1>
         <hr>
         <p>
